@@ -1,0 +1,49 @@
+{
+  "header": {
+    "title": "அக்ரிடெக் AI உதவியாளர்",
+    "version": "v1.0"
+  },
+  "detector": {
+    "title": "AI பயிர் நோய் கண்டறிதல்",
+    "subtitle": "உடனடி சுகாதார பகுப்பாய்வு மற்றும் பரிந்துரைகளைப் பெற பயிர் இலையின் புகைப்படத்தைப் பதிவேற்றவும்.",
+    "uploadArea": {
+      "clickToUpload": "படத்தைப் பதிவேற்ற கிளிக் செய்யவும்",
+      "dragAndDrop": "அல்லது இழுத்து விடுங்கள்",
+      "fileTypes": "PNG, JPG, அல்லது WEBP"
+    },
+    "buttons": {
+      "analyzing": "பகுப்பாய்வு செய்யப்படுகிறது...",
+      "analyze": "பயிரை பகுப்பாய்வு செய்",
+      "clear": "அழி"
+    },
+    "status": {
+      "error": "பிழை:",
+      "placeholderTitle": "உங்கள் பயிர் பகுப்பாய்வு இங்கே தோன்றும்.",
+      "placeholderSubtitle": "படத்தைப் பதிவேற்றி, தொடங்க \"பயிரை பகுப்பாய்வு செய்\" என்பதைக் கிளிக் செய்யவும்."
+    }
+  },
+  "resultCard": {
+    "healthy": "பயிர் ஆரோக்கியமாக உள்ளது",
+    "diseaseDetected": "நோய் கண்டறியப்பட்டது: {diseaseName}",
+    "description": "விளக்கம்",
+    "potentialCauses": "சாத்தியமான காரணங்கள்",
+    "suggestedRemedies": "பரிந்துரைக்கப்பட்ட தீர்வுகள்",
+    "remedyTypes": {
+      "Organic": "இயற்கை",
+      "Chemical": "இரசாயன",
+      "Preventive": "தடுப்பு"
+    }
+  },
+  "spinner": {
+    "analyzing": "படத்தை பகுப்பாய்வு செய்கிறது..."
+  },
+  "footer": {
+    "copyright": "&copy; {year} அக்ரிடெக் AI உதவியாளர். தொழில்நுட்பத்துடன் விவசாயிகளை மேம்படுத்துதல்."
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी (Hindi)",
+    "ta": "தமிழ் (Tamil)",
+    "bn": "বাংলা (Bengali)"
+  }
+}

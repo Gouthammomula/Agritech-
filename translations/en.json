@@ -1,0 +1,49 @@
+{
+  "header": {
+    "title": "AgriTech AI Assistant",
+    "version": "v1.0"
+  },
+  "detector": {
+    "title": "AI Crop Disease Detector",
+    "subtitle": "Upload a photo of a crop leaf to get an instant health analysis and recommendations.",
+    "uploadArea": {
+      "clickToUpload": "Click to upload an image",
+      "dragAndDrop": "or drag and drop",
+      "fileTypes": "PNG, JPG, or WEBP"
+    },
+    "buttons": {
+      "analyzing": "Analyzing...",
+      "analyze": "Analyze Crop",
+      "clear": "Clear"
+    },
+    "status": {
+      "error": "Error:",
+      "placeholderTitle": "Your crop analysis will appear here.",
+      "placeholderSubtitle": "Upload an image and click \"Analyze Crop\" to begin."
+    }
+  },
+  "resultCard": {
+    "healthy": "Crop is Healthy",
+    "diseaseDetected": "Disease Detected: {diseaseName}",
+    "description": "Description",
+    "potentialCauses": "Potential Causes",
+    "suggestedRemedies": "Suggested Remedies",
+    "remedyTypes": {
+      "Organic": "Organic",
+      "Chemical": "Chemical",
+      "Preventive": "Preventive"
+    }
+  },
+  "spinner": {
+    "analyzing": "Analyzing image..."
+  },
+  "footer": {
+    "copyright": "&copy; {year} AgriTech AI Assistant. Empowering Farmers with Technology."
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी (Hindi)",
+    "ta": "தமிழ் (Tamil)",
+    "bn": "বাংলা (Bengali)"
+  }
+}

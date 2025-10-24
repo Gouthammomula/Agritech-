@@ -1,0 +1,49 @@
+{
+  "header": {
+    "title": "एग्रीटेक एआई असिस्टेंट",
+    "version": "v1.0"
+  },
+  "detector": {
+    "title": "एआई फसल रोग डिटेक्टर",
+    "subtitle": "तुरंत स्वास्थ्य विश्लेषण और सिफारिशें प्राप्त करने के लिए फसल के पत्ते की एक तस्वीर अपलोड करें।",
+    "uploadArea": {
+      "clickToUpload": "एक छवि अपलोड करने के लिए क्लिक करें",
+      "dragAndDrop": "या खींचें और छोड़ें",
+      "fileTypes": "PNG, JPG, या WEBP"
+    },
+    "buttons": {
+      "analyzing": "विश्लेषण हो रहा है...",
+      "analyze": "फसल का विश्लेषण करें",
+      "clear": "साफ़ करें"
+    },
+    "status": {
+      "error": "त्रुटि:",
+      "placeholderTitle": "आपकी फसल का विश्लेषण यहाँ दिखाई देगा।",
+      "placeholderSubtitle": "एक छवि अपलोड करें और शुरू करने के लिए \"फसल का विश्लेषण करें\" पर क्लिक करें।"
+    }
+  },
+  "resultCard": {
+    "healthy": "फसल स्वस्थ है",
+    "diseaseDetected": "रोग का पता चला: {diseaseName}",
+    "description": "विवरण",
+    "potentialCauses": "संभावित कारण",
+    "suggestedRemedies": "सुझाए गए उपचार",
+    "remedyTypes": {
+      "Organic": "जैविक",
+      "Chemical": "रासायनिक",
+      "Preventive": "निवारक"
+    }
+  },
+  "spinner": {
+    "analyzing": "छवि का विश्लेषण हो रहा है..."
+  },
+  "footer": {
+    "copyright": "&copy; {year} एग्रीटेक एआई असिस्टेंट। किसानों को प्रौद्योगिकी के साथ सशक्त बनाना।"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी (Hindi)",
+    "ta": "தமிழ் (Tamil)",
+    "bn": "বাংলা (Bengali)"
+  }
+}

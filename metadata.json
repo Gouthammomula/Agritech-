@@ -1,0 +1,5 @@
+{
+  "name": "AgriTech AI Assistant",
+  "description": "An AI-powered application to help farmers detect crop diseases by uploading images. It provides detailed analysis, potential causes, and actionable remedies to improve crop health and yield.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,49 @@
+{
+  "header": {
+    "title": "এগ্রিটেক এআই অ্যাসিস্ট্যান্ট",
+    "version": "v1.0"
+  },
+  "detector": {
+    "title": "এআই ফসল রোগ সনাক্তকারী",
+    "subtitle": "তাৎক্ষণিক স্বাস্থ্য বিশ্লেষণ এবং সুপারিশ পেতে ফসলের পাতার একটি ছবি আপলোড করুন।",
+    "uploadArea": {
+      "clickToUpload": "একটি ছবি আপলোড করতে ক্লিক করুন",
+      "dragAndDrop": "অথবা টেনে আনুন এবং ড্রপ করুন",
+      "fileTypes": "PNG, JPG, বা WEBP"
+    },
+    "buttons": {
+      "analyzing": "বিশ্লেষণ করা হচ্ছে...",
+      "analyze": "ফসল বিশ্লেষণ করুন",
+      "clear": "পরিষ্কার করুন"
+    },
+    "status": {
+      "error": "ত্রুটি:",
+      "placeholderTitle": "আপনার ফসল বিশ্লেষণ এখানে প্রদর্শিত হবে।",
+      "placeholderSubtitle": "একটি ছবি আপলোড করুন এবং শুরু করতে \"ফসল বিশ্লেষণ করুন\" ক্লিক করুন।"
+    }
+  },
+  "resultCard": {
+    "healthy": "ফসল সুস্থ আছে",
+    "diseaseDetected": "রোগ সনাক্ত করা হয়েছে: {diseaseName}",
+    "description": "বিবরণ",
+    "potentialCauses": "সম্ভাব্য কারণ",
+    "suggestedRemedies": "প্রস্তাবিত প্রতিকার",
+    "remedyTypes": {
+      "Organic": "জৈব",
+      "Chemical": "রাসায়নিক",
+      "Preventive": "প্রতিরোধমূলক"
+    }
+  },
+  "spinner": {
+    "analyzing": "ছবি বিশ্লেষণ করা হচ্ছে..."
+  },
+  "footer": {
+    "copyright": "&copy; {year} এগ্রিটেক এআই অ্যাসিস্ট্যান্ট। প্রযুক্তির মাধ্যমে কৃষকদের ক্ষমতায়ন।"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी (Hindi)",
+    "ta": "தமிழ் (Tamil)",
+    "bn": "বাংলা (Bengali)"
+  }
+}
